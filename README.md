@@ -2,14 +2,13 @@
 
 I am working on **App Development** and **Web Development**. My interest lies in **Data Science**, **Sports** and **Science**.
 
-- 🔭 I’m currently working on **several projects!**
 - 🌱 I’m currently working with *Flutter, Django, Firebase and integrating API's*
 - 👯 I’m looking to collaborate on *Mobile App Development and Web Development*
 - 💬 Ask me about **anything random**
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kavienanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavienanj@gmail.com)](mailto:kavienanj@gmail.com)
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj)
 <br>
 <h2>
 Get in Touch <img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Handshake.gif" height="32px">
