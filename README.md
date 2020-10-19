@@ -8,7 +8,7 @@ I am working on **App Development** and **Web Development**. My interest lies in
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kavienanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavienanj@gmail.com)](mailto:kavienanj@gmail.com)
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&layout=compact&theme=dracula)
 <br>
 <h2>
 Get in Touch <img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Handshake.gif" height="32px">
