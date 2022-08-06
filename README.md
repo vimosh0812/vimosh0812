@@ -18,7 +18,7 @@ I am working on **App Development** and **Web Development**. My interest lies in
 Get in Touch <img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Handshake.gif" height="32px">
 </h2>
 
-| [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Instagram.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/kavienanj/) |  [<img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/twitter.svg" alt="Twitter logo" width="50" height="60">](https://gitlab.com/kavienanj)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kavienanj) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:kavienanj@gmail.com)
+| [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Instagram.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/kavienanj/) |  [<img src="https://github.com/sainiteshb/sainiteshb/blob/master/assets/twitter.svg" alt="Twitter logo" width="50" height="60">](https://twitter.com/kavienanj)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kavienanj) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:kavienanj@gmail.com)
 |:---:|:---:|:---:|:---:|
 
 <br>
