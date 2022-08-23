@@ -2,7 +2,7 @@
 
 I am working on **App Development** and **Web Development**. My interest lies in **Data Science**, **Sports** and **Science**.
 
-- 🌱 I’m currently working with *Flutter, Django, Firebase and integrating API's*
+- 🌱 I’m currently working with *Flutter, Next Js, Firebase and Python*
 - 👯 I’m looking to collaborate on *Mobile App Development and Web Development*
 - 💬 Ask me about **anything random**
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kavienanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavienanj@gmail.com)](mailto:kavienanj@gmail.com)
