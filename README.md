@@ -7,9 +7,7 @@ I am working on **App Development** and **Web Development**. My interest lies in
 - 💬 Ask me about **anything random**
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kavienanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavienanj@gmail.com)](mailto:kavienanj@gmail.com)
 
-### Find my services at,
-- #### [Upwork.com/kavienanj](https://www.upwork.com/freelancers/~01c54f90bd0c543351?s=1110580755107926016)
-- #### [Contra.com/kavienanj](https://contra.com/kavienanj)
+### Find my services at [Upwork.com/kavienanj](https://www.upwork.com/freelancers/~01c54f90bd0c543351?s=1110580755107926016)
 
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&layout=compact&theme=dracula)
