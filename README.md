@@ -17,7 +17,7 @@ Get in Touch <img src="https://github.com/kavienanj/kavienanj/blob/master/assets
 </h2>
 
 | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/kavienanj/) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Instagram.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/kavienanj/) |  [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/twitter.svg" alt="Twitter logo" width="50" height="60">](https://twitter.com/kavienanj)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/kavienanj) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:kavienanj@gmail.com)
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 
 <br>
 Checkout my pinned Repos 👇
