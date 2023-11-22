@@ -1,10 +1,9 @@
 <h1 align="center"> <img src="https://github.com/kavienanj/kavienanj/blob/master/assets/hello.gif" alt="hello-gif" width="300px" height="100px" ><br >I'm <a href="https://www.github.com/kavienanj"> Kavienan </a> </h1>
 
-I am working on **App Development** and **Web Development**. My interest lies in **Data Science**, **Sports** and **Science**.
+I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for development are Flutter and Next.js. I use wide range of tools backend stack(API/Databases) like Firebase, AWS, NodeJs, Flask, MongoDB, MySQL, etc. I often write automation scripts using Python. My interest lies in **Sports** and **Science**. Actively exploring the new Large Language Models and OpenAI GPT Models right now.
 
-- 🌱 I’m currently working with *Flutter, Next Js, Firebase and Python*
-- 👯 I’m looking to collaborate on *Mobile App Development and Web Development*
-- 💬 Ask me about **anything random**
+- 🌱 I’m currently working on *Full Stack Application, Automation and AI Projects*
+- 👯 I’m looking to collaborate on *Open Source Projects*
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-kavienanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavienanj@gmail.com)](mailto:kavienanj@gmail.com)
 
 ### Find my services at [Upwork.com/kavienanj](https://www.upwork.com/freelancers/~01c54f90bd0c543351?s=1110580755107926016)
