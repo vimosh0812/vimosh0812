@@ -8,8 +8,7 @@ I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for develo
 
 ### Find my services at [Upwork.com/kavienanj](https://www.upwork.com/freelancers/~01c54f90bd0c543351?s=1110580755107926016)
 
-### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&layout=compact&theme=dracula)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&theme=dark&hide=jupyter%20notebook,css)
 <br>
 <h2>
 Get in Touch <img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Handshake.gif" height="32px">
