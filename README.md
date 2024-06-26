@@ -11,7 +11,7 @@ I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for develo
 #### Find more about me at [kavienanj.github.io](https://kavienanj.github.io)
 <br/>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&theme=dark&hide=jupyter%20notebook,css,c,perl,makefile)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&theme=dark&hide=jupyter%20notebook,css,c,perl,makefile,assembly)
 
 <h2>My Social Links</h2>
 
