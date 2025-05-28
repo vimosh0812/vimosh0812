@@ -4,7 +4,7 @@ I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for develo
 
 - 🛠️ I’m currently working on *Full Stack Application, Automation and AI Projects*
 - 🤝 I’m looking to collaborate on *Open Source Projects*
-- ✉️ Reach me through [![Gmail Badge](https://img.shields.io/badge/-vimosh2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavienanj@gmail.com)](mailto:vimosh2002@gmail.com)
+- ✉️ Reach me through [![Gmail Badge](https://img.shields.io/badge/-vimosh2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vimosh2002@gmail.com)](mailto:vimosh2002@gmail.com)
 
 #### Find more about me at [vimosh0812.github.io](https://vimosh0812.github.io)
 <br/>
