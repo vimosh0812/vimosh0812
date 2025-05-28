@@ -9,11 +9,11 @@ I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for develo
 #### Find more about me at [vimosh0812.github.io](https://vimosh0812.github.io)
 <br/>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&theme=dark&hide=jupyter%20notebook,css,c,perl,makefile,assembly,shell)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vimosh0812&theme=dark&hide=jupyter%20notebook,css,c,perl,makefile,assembly,shell)
 
 <h2>My Social Links</h2>
 
-| [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/kavienanj/) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Instagram.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/kavienanj/) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/X.png" alt="X logo" width="34">](https://x.com/kavienanj) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Facebook.png" alt="Facebook logo" width="34">](https://facebook.com/kavienanj) 
+| [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](www.linkedin.com/in/vimosh-vasanthakumar-072068293) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Instagram.svg" alt="Instagram Logo" width="32">](https://www.instagram.com//) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/X.png" alt="X logo" width="34">](https://x.com/) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Facebook.png" alt="Facebook logo" width="34">](https://facebook.com/) 
 |:---:|:---:|:---:|:---:|
 
 <br>
